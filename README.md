@@ -1,4 +1,4 @@
-*API AGENDA+
+*API AGENDA*
 
   A digital agenda for beekeepers RO/EN
 - location
